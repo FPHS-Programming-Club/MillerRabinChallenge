@@ -1,5 +1,6 @@
 # Build files
 *.exe
+*.gch
 
 # Extra debug stuff
 Debug/
