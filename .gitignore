@@ -1,0 +1,10 @@
+# Build files
+bin/
+obj/
+
+# Don't need this
+*.sln
+
+# Extra debug stuff.
+timings.csv
+Debug/
