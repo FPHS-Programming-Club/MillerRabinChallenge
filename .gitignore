@@ -1,0 +1,6 @@
+# Don't need this
+__pycache__/
+
+# Extra debug stuff.
+timings.csv
+Debug/
