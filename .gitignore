@@ -1,0 +1,13 @@
+# Build files
+x64/
+FibonacciChallenge/x64/
+
+# Don't need this
+.vs/
+
+# Extra debug stuff
+Debug/
+timings.csv
+*/timings.csv
+*/*/timings.csv
+# ^ In a variety of places, they could be. Check them all, I must.
