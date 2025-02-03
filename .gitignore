@@ -1,0 +1,6 @@
+# Build files
+*.exe
+
+# Extra debug stuff
+Debug/
+timings.csv
