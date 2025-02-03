@@ -16,7 +16,7 @@ You will of course be given a template for the language you choose to write your
 
 **Here's the TL;DR**:
 - Implement the Miller-Rabin primality test. Don't use a different algorithm.
-- One submission per category: one for speed, one for code length. $15 is at stake for each.
+- One submission per category: one for speed, one for code length. $25 is at stake for each.
 - Use whatever language you want. You'll have a single method to implement.
 - The testing numbers will not be revealed, but will fit into a 64-bit signed integer.
 - The deadline is February 28th.
